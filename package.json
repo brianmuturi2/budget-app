@@ -1,0 +1,19 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "A web app for calculating budget by providing income and expense",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmuturi2/budget-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmuturi2/budget-app/issues"
+  },
+  "homepage": "https://github.com/brianmuturi2/budget-app#readme"
+}
