@@ -26,10 +26,10 @@
     <img src="dist/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Recipe searching website</h3>
+<h3 align="center">Budget App</h3>
 
   <p align="center">
-    A website for searching recipes based on a given meal/ food.
+    An application for calculating budget based on income and expenses
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A website for searching recipes based on a given meal/ food.
+An application for calculating budget based on income and expenses
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,16 +108,9 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brianmuturi2/Recipe-web-app.git
+   git clone https://github.com/brianmuturi2/budget-app.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Spin up development server
-   ```sh
-   npm start
-   ```  
+2. Run index.html 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,11 +119,9 @@ This is an example of how to list things you need to use the software and how to
 
 The following are the features implemented in the application.
 
-* Querying a recipe endpoint
-* Listing all recipes
-* Viewing a specific recipe
-* Add and remove ingredients from a shopping list
-* Webpack module bundler
+* Add income or expense, its description and value
+* Calculate budget
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
